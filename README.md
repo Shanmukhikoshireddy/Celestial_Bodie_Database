@@ -3,7 +3,7 @@ This is a PostgreSQL-based relational database project designed to model a minia
 
 ## 📁 Project Structure
 
-universe/
+universe
 
 ├── universe.sql # SQL file with full schema and data (optional dump)
 
