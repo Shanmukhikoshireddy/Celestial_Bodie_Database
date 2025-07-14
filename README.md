@@ -157,5 +157,5 @@ Understanding data types and when to use them
 This project was created as part of the freeCodeCamp Relational Database curriculum.
 
 ## 🙋 Author
-Built with 💫 by [Shanmukhi]
+Built with ❤ by Shanmukhi
 
